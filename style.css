@@ -9,7 +9,7 @@
 }
 
 body {
-  background: url(./images/background.jpg) no-repeat;
+  background: url(./images/background.jpg) repeat-y;
   background-size: cover;
 }
 
